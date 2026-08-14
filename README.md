@@ -3,8 +3,8 @@
 Repositório com as atividades desenvolvidas na disciplina de Inteligência 
 Artificial, do curso de Engenharia de Software.
 
-Aluno: Matheus Luiz
-Turma: 6B - Noturno
+Matheus Luiz
+6B - Noturno
 
 ## Conteúdo
 
